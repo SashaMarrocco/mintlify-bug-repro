@@ -1,0 +1,2 @@
+node_modules
+!node_modules/@mintlify/prebuild/dist/prebuild/update/read/getOpenApiFilesFromConfig.js
